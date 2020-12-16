@@ -4,8 +4,8 @@ import java.util.ArrayList;
 public class Test {
 
 	public static void main(String[] args) {
-		Employe b = new Employe("hamid", "hamid", "casa", "casa", 1990, 34);
-		Employe b2 = new Employe("simo", "hamid", "casa", "casa", 1990, 34);
+		Employe b = new Employe("zakaria", "hamid", "casa", "casa", 1990, 34);
+		Employe b2 = new Employe("mouhsine", "hamid", "casa", "casa", 1990, 34);
 		Employe b3 = new Employe("kamal", "hamid", "casa", "casa", 1990, 34);
 		Employe b4 = new Employe("mohamed", "hamid", "casa", "casa", 1990, 34);
 		Employe b5 = new Employe("jamal", "hamid", "casa", "casa", 1990, 34);
@@ -13,7 +13,7 @@ public class Test {
 		
 		Chef c = new Chef("hamid", "hamid", "casa", "casa", 1990, 456, "hi");
 		Chef c1 = new Chef("imad", "hamid", "casa", "casa", 1990, 456, "hi");
-		//c.afficher();
+		//c.afficher(); 
 		
 		Directeur d = new Directeur("hamid", "hamid", "casa", "casa", 1990,456, "hi", "you");
 		//d.afficher();
